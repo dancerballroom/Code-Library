@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Generated Quip Emulation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+   <body>
+   <hr style="height:4px;border-width:0;color:navy;background-color:navy">
+   Click to Search 
+   
+<!-- To Generate   
+   <A HREF="Search.html" target="main_page">here.</A>
+-->
